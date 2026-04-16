@@ -62,10 +62,10 @@ Sub Co-ordinator                                         │
 
 > 📐 **For a comprehensive visual understanding of the system, detailed UML diagrams are available in the [`/docs`](./docs) directory, including:**
 >
-> - **[Use Case Diagram](docs/Use-Case-Diagram.png)** — illustrates all actor interactions and system boundaries across every user role.
-> - **[Class Diagram](docs/Class-Diagram.png)** — defines the object-oriented structure, entity relationships, and core system components.
-> - **[Activity Diagram](docs/Activity-Diagram.png)** — maps the end-to-end flow of a problem through the entire curation and approval pipeline.
-> - **[Package Diagram](docs/Package-Diagram.png)** — presents the high-level modular organization of the system, showing how components and namespaces are grouped and their dependencies structured.
+> - **[Use Case Diagram](docs/Use%20Case%20Diagram.png)** — illustrates all actor interactions and system boundaries across every user role.
+> - **[Class Diagram](docs/Class%20Diagram.png)** — defines the object-oriented structure, entity relationships, and core system components.
+> - **[Activity Diagram](docs/Activity%20Diagram.png)** — maps the end-to-end flow of a problem through the entire curation and approval pipeline.
+> - **[Package Diagram](docs/Package%20Diagram.png)** — presents the high-level modular organization of the system, showing how components and namespaces are grouped and their dependencies structured.
 >
 > *Reviewing these diagrams is strongly recommended for a full picture of the system's architecture and design decisions.*
 
