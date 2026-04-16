@@ -60,6 +60,15 @@ Sub Co-ordinator                                         │
                                                Co-ordinator Arranges Contest
 ```
 
+> 📐 **For a comprehensive visual understanding of the system, detailed UML diagrams are available in the [`/docs`](./docs) directory, including:**
+>
+> - **[Use Case Diagram](./docs/use-case-diagram.png)** — illustrates all actor interactions and system boundaries across every user role.
+> - **[Class Diagram](./docs/class-diagram.png)** — defines the object-oriented structure, entity relationships, and core system components.
+> - **[Activity Diagram](./docs/activity-diagram.png)** — maps the end-to-end flow of a problem through the entire curation and approval pipeline.
+> - **[Package Diagram](./docs/package-diagram.png)** — presents the high-level modular organization of the system, showing how components and namespaces are grouped and their dependencies structured.
+>
+> *Reviewing these diagrams is strongly recommended for a full picture of the system's architecture and design decisions.*
+
 ---
 
 ## 👥 User Roles & Responsibilities
