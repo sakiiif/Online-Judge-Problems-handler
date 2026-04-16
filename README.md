@@ -22,10 +22,7 @@
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
 - [Database Design Highlights](#-database-design-highlights)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
-- [What I Learned](#-what-i-learned)
-
+  
 ---
 
 ## 🧭 Overview
